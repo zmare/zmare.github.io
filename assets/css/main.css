@@ -3085,6 +3085,10 @@ input[type="button"]:disabled,
 	width: 80px;
 }
 
+#submit-button {
+	margin-top: 40px;
+}
+
 
 /* Touch */
 
